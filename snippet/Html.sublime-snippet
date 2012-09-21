@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>${1:我是一头猪}</title>
+<!-- <link rel="stylesheet" href="style.css" type="text/css" media="screen" /> -->
+<style type="text/css">
+
+</style>
+</head>
+<body>
+	${2:snippet}
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+
+</script>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>

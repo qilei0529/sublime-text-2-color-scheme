@@ -1,0 +1,10 @@
+
+
+[
+	{ "keys": ["ctrl+f"], "command": "show_panel", "args": {"panel": "replace"} },
+	{ "keys": ["ctrl+alt+w"], "command": "open_browser" },
+	{ "keys": ["ctrl+alt+0"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+o"], "command": "trans_code" },
+	{ "keys": ["ctrl+shift+u"], "command": "css_format" },
+	{ "keys": ["ctrl+u"], "command": "lower_case" }
+]
