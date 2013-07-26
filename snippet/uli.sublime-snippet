@@ -1,8 +1,11 @@
 <snippet>
-	<content><![CDATA[<div class="${1:attr}">${2:text}</div>
-<!-- ${1:attr} -->]]></content>
+	<content><![CDATA[<ul class="${1:attr}">
+	<li>${2:text}</li>
+</ul>
+<!-- ${1:attr} -->${3}]]>
+	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ds</tabTrigger>
+	<tabTrigger>ul</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>

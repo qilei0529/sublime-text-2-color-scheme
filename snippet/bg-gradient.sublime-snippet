@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[background: -webkit-gradient(linear, 0 0, 0 100%, from(${1:red}), to(${2:blue}));]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>back-grad</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
