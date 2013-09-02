@@ -6,5 +6,6 @@
 	{ "keys": ["ctrl+alt+0"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+shift+o"], "command": "trans_code" },
 	{ "keys": ["ctrl+shift+u"], "command": "css_format" },
+	{ "keys": ["ctrl+shift+i"], "command": "dom_format" },
 	{ "keys": ["ctrl+u"], "command": "lower_case" }
 ]
