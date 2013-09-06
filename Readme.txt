@@ -1,6 +1,5 @@
 1. color scheme
-
- ![image](https://github.com/qilei0529/sublime-text-2-color-scheme/raw/master/screenshots/sb2.png)
+ ![Alt jablus](https://github.com/qilei0529/sublime-text-2-color-scheme/raw/master/screenshots/sb2.png)
 
 2. snippet
 		= 	 -> = ""
@@ -16,6 +15,11 @@
 
 		clog -> console.log()
 
+		.    -> css / start  .xxx{...}
+
+		txo  -> css / text-overflow:ellipsis;
+
+		ul   -> css / ul ...
 
 3. plugin
 		cssFormat  ->  format your code toggle in single-line / multi-line
