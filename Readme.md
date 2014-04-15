@@ -1,5 +1,5 @@
 1. color scheme
- ![Alt jablus](https://github.com/qilei0529/sublime-text-2-color-scheme/raw/master/screenshots/sb2.png)
+ ![Alt jablus](https://github.com/qilei0529/sublime-text-2-color-scheme/raw/master/screenshots/sb2-a.png)
 
 2. snippet
 		= 	 -> = ""
